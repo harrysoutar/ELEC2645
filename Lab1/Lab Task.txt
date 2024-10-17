@@ -1,0 +1,1 @@
+Edit the code file given to add functions for 'calculateCurrent' and 'calculateResistance'.
