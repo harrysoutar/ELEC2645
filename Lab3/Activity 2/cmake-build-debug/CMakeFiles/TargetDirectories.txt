@@ -1,0 +1,3 @@
+/Users/harrysoutar/CLionProjects/Lab3/Activity 2/cmake-build-debug/CMakeFiles/Activity_2.dir
+/Users/harrysoutar/CLionProjects/Lab3/Activity 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/harrysoutar/CLionProjects/Lab3/Activity 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
